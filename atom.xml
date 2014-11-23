@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T08:00:05+09:00</updated>
+  <updated>2014-11-24T08:02:13+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
