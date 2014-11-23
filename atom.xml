@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T08:29:57+09:00</updated>
+  <updated>2014-11-24T08:36:18+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Shun Fukuzawa]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[もうちょっとまじめに書いてみる]]></title>
+    <link href="http://yukichi.github.io/blog/2014/11/24/2nd/"/>
+    <updated>2014-11-24T08:30:52+09:00</updated>
+    <id>http://yukichi.github.io/blog/2014/11/24/2nd</id>
+    <content type="html"><![CDATA[<p>カテゴリーは使わない。</p>
+
+<p>もうちょっとまじめに書いてみると、</p>
+
+<figure class='code'><figcaption><span>deploy</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">$ </span>rake deploy
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>と</p>
+
+<figure class='code'><figcaption><span>push</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nv">$ </span>git push
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>の違いがわからない。</p>
+
+<p>deployだけでいいの? pushも必要なの?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[最初]]></title>
