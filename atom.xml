@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T08:38:57+09:00</updated>
+  <updated>2014-11-24T08:44:37+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Shun Fukuzawa]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[わかってないこと]]></title>
+    <link href="http://yukichi.github.io/blog/2014/11/24/i-dont-understand/"/>
+    <updated>2014-11-24T08:40:34+09:00</updated>
+    <id>http://yukichi.github.io/blog/2014/11/24/i-dont-understand</id>
+    <content type="html"><![CDATA[<p>そもそも、自分がOctopressがわかってないのか、Jykillがわかってないのか、そのレベル。</p>
+
+<p>markdownはいいんだけど、どうしようか。</p>
+
+<p>あと、pageの反映の仕方がわからない。テーマをいじるしかないの? 今のところ、自動で掲載とかは、無理そう。また、GUIの管理画面もなさそう(当たり前か)。</p>
+
+<p>このまま放置するのかな。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[もうちょっとまじめに書いてみる]]></title>
