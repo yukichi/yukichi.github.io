@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T08:02:13+09:00</updated>
+  <updated>2014-11-24T08:05:42+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -22,10 +22,16 @@
 
 <ul>
 <li>aaa</li>
-<li><p>bbb</p></li>
-<li><p>eeee</p></li>
-<li>gghhh</li>
+<li>bbb</li>
 </ul>
+
+
+<h2>test</h2>
+
+<ol>
+<li>eeee</li>
+<li>gghhh</li>
+</ol>
 
 ]]></content>
   </entry>
