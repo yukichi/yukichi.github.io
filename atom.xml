@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T22:03:32+09:00</updated>
+  <updated>2014-11-25T00:13:34+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Shun Fukuzawa]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[うがががあああああ]]></title>
+    <link href="http://yukichi.github.io/blog/2014/11/25/ugagagagaaaaa/"/>
+    <updated>2014-11-25T00:11:11+09:00</updated>
+    <id>http://yukichi.github.io/blog/2014/11/25/ugagagagaaaaa</id>
+    <content type="html"><![CDATA[<p>LibreOfficeで、こんなことでつまずいた&hellip;</p>
+
+<p><a href="http://bluewidz.blogspot.jp/2013/03/libreoffice.html">bluewidz nota: LibreOffice で条件付き書式</a></p>
+
+<p>文字列を&#8217;じゃなくて”で囲めって。そんなのソフトが自動でやってくれよ&hellip;</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ファイルメーカーについて]]></title>
