@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-24T09:55:48+09:00</updated>
+  <updated>2014-11-24T09:57:25+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Shun Fukuzawa]]></name>
@@ -18,7 +18,7 @@
     <link href="http://yukichi.github.io/blog/2014/11/24/i-dont-understand/"/>
     <updated>2014-11-24T08:40:34+09:00</updated>
     <id>http://yukichi.github.io/blog/2014/11/24/i-dont-understand</id>
-    <content type="html"><![CDATA[<p>そもそも、自分がOctopressがわかってないのか、Jykillがわかってないのか、そのレベル。</p>
+    <content type="html"><![CDATA[<p>そもそも、自分がOctopressがわかってないのか、Jekillがわかってないのか、そのレベル。</p>
 
 <p>markdownはいいんだけど、どうしようか。</p>
 
