@@ -4,7 +4,7 @@
   <title><![CDATA[ゆきち]]></title>
   <link href="http://yukichi.github.io/atom.xml" rel="self"/>
   <link href="http://yukichi.github.io/"/>
-  <updated>2014-11-25T00:13:34+09:00</updated>
+  <updated>2015-01-06T09:19:33+09:00</updated>
   <id>http://yukichi.github.io/</id>
   <author>
     <name><![CDATA[Shun Fukuzawa]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Year]]></title>
+    <link href="http://yukichi.github.io/blog/2015/01/06/new-year/"/>
+    <updated>2015-01-06T09:18:00+09:00</updated>
+    <id>http://yukichi.github.io/blog/2015/01/06/new-year</id>
+    <content type="html"><![CDATA[<p>新年です。</p>
+
+<p>あけましておめでとうございます。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[うがががあああああ]]></title>
